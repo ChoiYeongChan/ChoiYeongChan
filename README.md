@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Portfolio
+https://well-tern-5a0.notion.site/e53a3f6bd5554c5d9bac74e103b73006?pvs=4
+
+# LinkedIn
+https://www.linkedin.com/in/yeongchan321/
+
 <!--
 **ChoiYeongChan/ChoiYeongChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
